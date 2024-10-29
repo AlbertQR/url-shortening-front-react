@@ -1,0 +1,12 @@
+.social-media {
+  a {
+    max-height: 1.5rem;
+  }
+
+  svg:hover {
+    path {
+      fill: hsl(180, 66%, 49%) !important;
+      transition: fill 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+  }
+}

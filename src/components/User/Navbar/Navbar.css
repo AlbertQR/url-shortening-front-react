@@ -1,0 +1,15 @@
+.open .toggle {
+  span:first-child  {
+    transform: rotate(45deg);
+    transform-origin: -1px 1.5px;
+  }
+
+  span:nth-child(2) {
+    opacity: 0;
+  }
+
+  span:last-child {
+    transform: rotate(-45deg);
+    transform-origin: -1px 1.5px;
+  }
+}
