@@ -13,7 +13,6 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -69,15 +68,9 @@ plugins: [
 From the beginning i through this project like a full-stack challenge 
 so this is not the end I'll keep improving and  adding functionalities 
 to the project and build a whole service included an own backend and 
-user login  and the administration section solution.
+user login and the administration section solution.
 
 ## Author
 
 - Github: - [@AlbertQR](https://github.com/AlbertQR/)
-- Frontend Mentor - [@AlbertQR](https://www.frontendmentor.io/profile/AlbertQR)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on 
-this project. Perhaps you worked in a team or got some inspiration from 
-someone else's solution. This is the perfect place to give them some credit.
+- Frontend Mentor - [@AlbertQR](https://www.frontendmentor.io/profile/AlbertQR
